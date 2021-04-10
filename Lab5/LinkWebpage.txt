@@ -1,1 +1,1 @@
-http://ssalgado.pythonanywhere.com/
+http://ssalgado.pythonanywhere.com
